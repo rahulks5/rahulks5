@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋,I'm Rahul</h1>
-<h3 align="center">I'm a Frontend Developer with 5+ years of experience specializing in ReactJS and JavaScript. I enjoy building clean, responsive web applications and continually strive to learn new technologies to stay ahead of the curve. Whether it's improving UI/UX or optimizing performance, I love taking on new challenges.</h3>
+<h3 align="left">I'm a Frontend Developer with 5+ years of experience specializing in ReactJS and JavaScript. I enjoy building clean, responsive web applications and continually strive to learn new technologies to stay ahead of the curve. Whether it's improving UI/UX or optimizing performance, I love taking on new challenges.</h3>
 <img align="right" alt="rahul" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400" height="400">
 <br>
 
